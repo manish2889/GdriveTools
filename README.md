@@ -104,6 +104,6 @@ python3 add_to_team_drive.py -d SharedTeamDriveID.here
 ---
 
 
-## thats All For Help.... Join--  https://t.me/XcodersHub for more
+## thats All 
 
 ---
